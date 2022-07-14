@@ -142,6 +142,7 @@
     <ClCompile Include="FANMEETING.cpp" />
     <ClCompile Include="FENCE.cpp" />
     <ClCompile Include="JUMPGAME.cpp" />
+    <ClCompile Include="LIS OPTIMIZED.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="QUADTREE.cpp" />
     <ClCompile Include="TRIANGLEPATH.cpp" />
