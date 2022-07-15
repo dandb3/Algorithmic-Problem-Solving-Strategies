@@ -7,9 +7,5 @@ using ll = long long;
 int main() {
 	FASTIO;
 
-	string str = "123";
-	cout << (str.substr(4) == "");
-
-
 	return 0;
 }

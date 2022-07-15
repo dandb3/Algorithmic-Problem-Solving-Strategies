@@ -42,7 +42,10 @@
     <ClCompile Include="형식.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="LIS OPTIMIZED.cpp">
+    <ClCompile Include="LIS OPTIMIZED1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LIS OPTIMIZED2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
