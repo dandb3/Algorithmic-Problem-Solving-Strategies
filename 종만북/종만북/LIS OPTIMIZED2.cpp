@@ -12,7 +12,7 @@ int main() {
 	int test;
 	cin >> test;
 	while (test--) {
-		vector<int> LIS;
+		vector<int> LIS; //이 배열은 strictly increase 할 수 밖에 없다!
 		int N;
 		cin >> N;
 		for (int i = 0; i < N; i++) {
