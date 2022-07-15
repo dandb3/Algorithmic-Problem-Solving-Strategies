@@ -48,5 +48,17 @@
     <ClCompile Include="LIS OPTIMIZED2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="JLIS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TILING2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QUANTIZE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
